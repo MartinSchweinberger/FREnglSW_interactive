@@ -31,8 +31,8 @@ and providing the name of the notebook you want to be launched by default (if de
 
 # Interactive Reproduction
 
-Below is the link to interactive notebook that enable anyone to reproduce the analysis step-by-step or code-chunk by code-chunk 
+Below is the link to interactive notebook that enable anyone to reproduce the analysis step-by-step or code-chunk by code-chunk via virtual machines launched at Binder.org
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MartinSchweinberger/FREnglSW_interactivemain?labpath=notebooks%2Fregex_cb.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MartinSchweinberger/FREnglSW_interactivemain?labpath=notebooks%2FChnVwls_Part03_MuPDARF_interactive.ipynb)
 
-[Regular expressions in R](https://mybinder.org/v2/gh/MartinSchweinberger/FREnglSW_interactive/main?labpath=notebooks%2Fregex_cb.ipynb)
+[ChnVwls_Part03_MuPDARF_interactive.ipynb](https://mybinder.org/v2/gh/MartinSchweinberger/FREnglSW_interactive/main?labpath=notebooks%2FChnVwls_Part03_MuPDARF_interactive.ipynb)
