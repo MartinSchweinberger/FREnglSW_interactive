@@ -29,3 +29,10 @@ point binder to the repository you have created from this template, probably usi
 and providing the name of the notebook you want to be launched by default (if desired).
 8. Place the generated binder link (ideally with the Binder icon) in the readme.
 
+# Interactive Reproduction
+
+Below is the link to interactive notebook that enable anyone to reproduce the analysis step-by-step or code-chunk by code-chunk 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MartinSchweinberger/FREnglSW_interactivemain?labpath=notebooks%2Fregex_cb.ipynb)
+
+[Regular expressions in R](https://mybinder.org/v2/gh/MartinSchweinberger/FREnglSW_interactive/main?labpath=notebooks%2Fregex_cb.ipynb)
